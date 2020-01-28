@@ -1,0 +1,9 @@
+C:\Users\ALTAN EMRE\source\repos\Ankara Wissen\E_Ticaret\E_Ticaret_BLL\bin\Debug\E_Ticaret_BLL.dll
+C:\Users\ALTAN EMRE\source\repos\Ankara Wissen\E_Ticaret\E_Ticaret_BLL\bin\Debug\E_Ticaret_BLL.pdb
+C:\Users\ALTAN EMRE\source\repos\Ankara Wissen\E_Ticaret\E_Ticaret_BLL\obj\Debug\E_Ticaret_BLL.csprojAssemblyReference.cache
+C:\Users\ALTAN EMRE\source\repos\Ankara Wissen\E_Ticaret\E_Ticaret_BLL\obj\Debug\E_Ticaret_BLL.dll
+C:\Users\ALTAN EMRE\source\repos\Ankara Wissen\E_Ticaret\E_Ticaret_BLL\obj\Debug\E_Ticaret_BLL.pdb
+C:\Users\ALTAN EMRE\source\repos\Ankara Wissen\E_Ticaret\E_Ticaret_BLL\bin\Debug\E_Ticaret_Entity.dll
+C:\Users\ALTAN EMRE\source\repos\Ankara Wissen\E_Ticaret\E_Ticaret_BLL\bin\Debug\E_Ticaret_Entity.pdb
+C:\Users\ALTAN EMRE\source\repos\Ankara Wissen\E_Ticaret\E_Ticaret_BLL\bin\Debug\E_Ticaret_Entity.dll.config
+C:\Users\ALTAN EMRE\source\repos\Ankara Wissen\E_Ticaret\E_Ticaret_BLL\obj\Debug\E_Ticaret_BLL.csproj.CopyComplete

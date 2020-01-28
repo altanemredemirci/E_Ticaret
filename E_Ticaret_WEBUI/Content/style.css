@@ -1,0 +1,66 @@
+﻿.jumbotron {
+    background-image: url("../images/bg.png");
+    background-size: cover;
+    height: 100%;
+}
+
+#product-details h1{
+    font-size:27px;
+    font-weight:700;
+}
+
+.card-body{
+    height:160px;
+}
+.card-header {
+    height: 333px;
+    min-height: 250px;
+}
+
+.card-title a {
+    font-size: 16px;
+    font-weight: bold;
+    color: #484848;
+    line-height: 1.35em;
+    height: 34px;
+}
+
+.card-text {
+    font-size: 12px;
+    height: 40px;
+}
+
+.product-price {
+    color: green !important;
+    font-weight: 700;
+    font-size: 17px;    
+}
+
+.card-footer {
+    background-color: lightgray;
+}
+#write-review a {
+    margin-left: -50px;
+}
+
+h4 #product-price{
+    font-size:28px;
+    color:red;
+}
+
+main > .container {
+    padding: 60px 15px 0;
+}
+
+.footer {
+    background-color: #f5f5f5;
+}
+
+    .footer > .container {
+        padding-right: 15px;
+        padding-left: 15px;
+    }
+
+code {
+    font-size: 80%;
+}
